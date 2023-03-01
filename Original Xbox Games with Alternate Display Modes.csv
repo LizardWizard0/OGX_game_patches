@@ -1,0 +1,174 @@
+game,480p,720p,1080i,16x9,480p_patched,720p_patched,16:9_patched,issue_num,issue_desc,fix_num,fix_desc
+Backyard Wrestling: Don't Try This At Home,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Backyard Wrestling 2: There Goes the Neighborhood ,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Bionicle,n,n,,n,y,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Broken Sword: The Sleeping Dragon,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Catwoman,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Celebrity Deathmatch,n,n,,n,y,,n,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Chessmaster 10th Edition,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Dakar 2: The World's Ultimate Rally ,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Darkwatch,n,n,,n,y,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Dead to Rights II,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Fairly OddParents: Breakin' da Rules,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Final Fight: Streetwise,n,n,,n,y,,broken (use 4x3),19,Broken implementation. Set Xbox to 4:3 instead.,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Haunted Mansion,n,n,,n,y,,n,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Headhunter Redemption,n,n,,n,y,,n,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Hitman 2: Silent Assassin,n,n,,n,y,,n,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Hitman: Contracts ,n,n,,n,y,,n,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Kung Fu Chaos,n,n,,n,y,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Madagascar,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Manhunt ,n,n,,n,y,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Mashed: Fully Loaded,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Metal Slug 3,n,n,,n (actually 4x3),y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Motocross Mania 3,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Puyo Pop Fever,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Scooby-Doo! Mystery Mayhem,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Scooby-Doo! Night of 100 Frights,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Ski Racing 2005,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Ski Racing 2006,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Slam Tennis,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+SpongeBob SquarePants: Battle for Bikini Bottom,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Starsky & Hutch,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Teenage Mutant Ninja Turtles,n,n,,n,y,,y,19,Broken implementation. Set Xbox to 4:3 instead. ,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Teenage Mutant Ninja Turtles 2: Battle Nexus,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Teenage Mutant Ninja Turtles: Mutant Melee,n,y,,Issues,NA,,n,10,"Most of the game is automatically adjusted to appear in an aspect ratio of 4:3 while the monitor is set to 16:9. Sometimes, this adjustment seems to fail.",NA,NA
+The Thing,n,n,,Yes,y,,NA,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Ultimate Spider-Man,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Xyanide,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Yetisports Artic Adventures,n,n,,n,y,,?,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Star Wars: Republic Commando,Only in 4x3,n,,Only in 480i,NA,,n,16,"The game does not support both widescreen and 480p at the same time; in fact with both options enabled, it will display a 4:3 480i image. Choose either to play in 480p or to play in 16:9. Selecting widescreen will result in 480i output.",NA,NA
+007: Agent Under Fire,partial,n,,n,y,,?,24,"480i for shooting stages, 480p for driving stages.",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+007: From Russia with Love,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Alien Hominid,y,n,,No – 14x9,NA,,n,20,Only released in PAL format with the aspect ratio changed to 14:9.,NA,NA
+Auto Modellista,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Baldur's Gate: Dark Alliance,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Baldur's Gate: Dark Alliance II,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Bard's Tale,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Beat Down: Fists of Vengeance ,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Big Mutha Truckers 2,y,n,,Vert- crop,NA,,?,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3.",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Black,y,n,,Yes,NA,y,NA,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+Blinx: The Time Sweeper,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Blood Omen 2,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+BloodRayne,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Bloody Roar: Extreme,y,n,,n,NA,y,y,,,18; 22,"Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen; 
+Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs) 
+"
+BlowOut,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Call of Cthulhu: Dark Corners of the Earth,y,n,,n,NA,y,y,,,18; 22,"Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen; 
+Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs) 
+"
+Crash Team Racing,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Crash Nitro Kart,y,y (30fps limit),,Yes,NA,NA,NA,23,Game runs at 30fps when set to 720p. ,NA,NA
+Castlevania: Curse of Darkness,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Charlie and the Chocolate Factory,y,n (label has incorrect info),,n,NA,,n,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Conker: Live & Reloaded,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Crash Bandicoot: The Wrath of Cortex,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Crimson Sea,y,n,,Yes,?,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Crimson Skies: High Road to Revenge ,y,n,,Yes,?,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Dead or Alive 3,y,n,,Mostly,NA,,n,13,"Most 2D graphics (text, icons and fighter's pictures) are not adjusted for 4:3, they have the same measures in both 4:3 and 16:9.",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Dead or Alive Ultimate ,y,n,,Partial; Mostly,NA,,n,13; 14,"Most 2D graphics (text, icons and fighter's pictures) are not adjusted for 4:3, they have the same measures in both 4:3 and 16:9.; 
+Only Dead or Alive 2 Ultimate is capable of displaying widescreen.",NA,NA
+Def Jam: Fight for NY,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Dino Crisis 3,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Drake of the 99 Dragons,y,n,,Yes,NA,y,NA,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+ESPN Major League Baseball,y,n,,Yes,NA,y (16x9 only),NA,,,21,Output 720p only in 16:9 (widescreen)
+Enter the Matrix,y,y (scaled from 480p),y (scaled from 480p),Yes,NA,,NA,25; 26,"720p mode is 720p upscaled from 480p; 
+1080i mode is 1080i upscaled from 480p.",NA,NA
+Fable: The Lost Chapters,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Fallout: Brotherhood of Steel,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Fatal Frame,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Fatal Frame II: Crimson Butterfly,y,n,,Yes,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+FlatOut,y,n,,n,n,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Freestyle MetalX,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Futurama,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Gauntlet: Seven Sorrows,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Ghost Master: The Gravenville Chronicles,y,n,,Yes,NA,y,NA,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+Grabbed by the Ghoulies,y,n,,Mostly,NA,,n,7," When this game is played in widescreen, the title demo, cinematics, and menus are presented in a 4:3 fashion although the game is actually presented in 16:9, this is normal.",NA,NA
+Grand Theft Auto III,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",NA,NA
+Grand Theft Auto: San Andreas,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",NA,NA
+Grand Theft Auto: Vice City ,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",NA,NA
+Halo: Combat Evolved,y,n,,n,NA,,y,15,"PAL version lacks proper PAL60 support, causing judder when this option is selected in the dashboard.",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The House of the Dead III,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+I-Ninja,y,y,,n,NA,NA,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Jet Set Radio Future,y,n,,n,NA,y,y,,,18; 22,"Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen; 
+Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs) 
+"
+Kill Switch,y,n,,Vert- crop,NA,y,partial fix,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+The King of Fighters: Maximum Impact,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Lord of the Rings: The Return of the King,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Lord of the Rings: The Third Age,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Marvel vs. Capcom 2,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Matrix: Path of Neo,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Max Payne 2: The Fall of Max Payne,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",NA,
+MechAssault 2: Lone Wolf,y,n,,Vert- crop; Horz + expansion,NA,,n,28,"Uses a combination of hor+ and vert- methods, meaning the top and bottom of the 4:3 image are cropped, and the left and right sides are expanded.",NA,
+Medal of Honor: Frontline,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Medal of Honor: Rising Sun,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Metal Arms: Glitch in the System,y,n,,n,NA,y,n,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+Metal Gear Solid 2: Substance ,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Metal Wolf Chaos,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Midtown Madness 3,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Mortal Kombat: Deadly Alliance,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Mortal Kombat: Shaolin Monks,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Need for Speed: Underground,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Need for Speed: Underground 2,y,n,,Vert- crop; Horz – crop (zoomed in),NA,,y,2,"Uses a ""zoomed-in"" widescreen(vert- and hor-), meaning less vertical and horizontal viewing area than in 4:3 mode.",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Ninja Gaiden Black,y,n,,Vert- crop; Horz + expansion,NA,,n,28,"Uses a combination of hor+ and vert- methods, meaning the top and bottom of the 4:3 image are cropped, and the left and right sides are expanded.",NA,NA
+ObsCure,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Otogi: Myth of Demons,y,n,,n,NA,y,y,,,18; 22,"Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen; 
+Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs) 
+"
+Otogi 2: Immortal Warriors,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+OutRun 2,y,n,,Yes for Main Game,NA,,n,3,Outrun Arcade is displayed in 4:3.,NA,NA
+Painkiller: Hell Wars,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Pariah,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Phantom Dust,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Prince of Persia: The Sands of Time,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Prince of Persia: The Two Thrones,y,n,,Vert+ crop; Horz + crop (zoomed out),NA,,n,29,"Uses a combination of hor+ and vert+ methods, meaning the top and bottom of the 4:3 image are expanded, and the left and right sides are expanded far more. A 'zoom-out' effect.",NA,NA
+Prince of Persia: Warrior Within ,y,n,,Vert+ crop; Horz + crop (zoomed out),NA,,n,29,"Uses a combination of hor+ and vert+ methods, meaning the top and bottom of the 4:3 image are expanded, and the left and right sides are expanded far more. A 'zoom-out' effect. ",NA,NA
+Project Gotham Racing,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Psychonauts,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Return to Castle Wolfenstein: Tides of War,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Richard Burns Rally,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Sega GT 2002,y,n,,Yes (menus in 4x3),NA,,n,8,"Although the game is presented in widescreen and even videos are adjusted to display properly, the menus are not. The menus' real aspect ratio is always 4:3.",NA,NA
+Serious Sam,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Serious Sam II,y,n,,n,NA,y,y,,,18; 22,"Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen; 
+Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs) 
+"
+Shenmue II,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Silent Hill 2,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Silent Hill 4: The Room,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+The Simpsons: Hit & Run,y,y,,n,NA,y,NA,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+Soul Calibur II,y,Y (only when set to 4:3),,Yes (480p only),NA,,n,5,Supports widescreen in 480p but not in 720p (720p has to be disabled in the system to allow 480p only).,NA,NA
+Spider-Man,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Star Wars: Jedi Knight II: Jedi Outcast,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Star Wars: Battlefront,y,n,,Vert- crop,NA,,n,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",NA,NA
+Syberia,y,y,n (see issues),NA,NA,NA,NA,26; 27,"1080i mode is 1080i upscaled from 480p.; 
+The 1080i mode is used only if the 720p flag is disabled in the dashboard. The picture have also a wrong aspect ratio.",,
+Tenchu: Return from Darkness,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Test Drive: Eve of Destruction,y,n,,Yes (menus in 4x3),NA,,n,8,"Although the game is presented in widescreen and even videos are adjusted to display properly, the menus are not. The menus' real aspect ratio is always 4:3.",NA,NA
+The Lord of the Rings: The Fellowship of the Ring ,y,n,,Vert- crop,NA,,y,1,"Uses the vert- method, meaning the top and bottom of the 4:3 image are actually cropped, meaning less visible viewing area than when played in 4:3. ",18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+TimeSplitters 2,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Tom Clancy's Splinter Cell,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Tom Clancy's Splinter Cell: Pandora Tomorrow,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Tom Clancy's Rainbow Six 3,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Tom Clancy's Rainbow Six 3: Black Arrow,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Tron 2.0 Killer App,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Turok: Evolution,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Unreal Championship,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Van Helsing,y,n,,n,NA,y,n,,,22,Working by force default.xbe to display the game in 720p (by using hex codes) and also widescreen (may need RAM or CPU upgrade to work and still might show minor graphical bugs)
+Whiplash,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Wreckless: The Yakuza Missions,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+XGRA,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+XIII,y,n,,n,NA,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Panzer Dragoon Orta,Y – But issues with 1.6b,n,,Yes,n,,n,17,"The game will only display 480p resolution on model version 1.6 or lower of the Xbox, playing on model version 1.6b will result in a blurry and/or distorted screen, making it unplayable. This problem can be solved by disabling 480p in the system settings. This problem can also occur on the Xbox 360.",NA,NA
+Crazy Taxi 3: High Roller,Y – with some issues,n,,Yes,?,,y,,,18,Working by force default.xbe to display the game in 480p (by using hex codes) and also widescreen 
+Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E.,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Cold Fear,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Eragon,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+ESPN NFL Football,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Ford Bold Moves Street Racing,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Future Tactics: The Uprising,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Sonic Heroes ,y,n,,n,NA,,n,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Sphinx and the Cursed Mummy,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Still Life,y,n,,n,NA,,n,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
+Super Monkey Ball Deluxe,y,n,,Yes,NA,,NA,4,The box art has an error that lists its max resolution as 720p when it is really 480p.,NA,NA
